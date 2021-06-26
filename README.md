@@ -10,7 +10,7 @@ be Apache. To start working on this project environment required is a server hav
 
 
 
-Download link- https://projectworlds.in/free-projects/php-projects/college-management-system-project-in-php/
+Download link- https://github.com/akchou0001/College-Management-System
 
 HOW TO DEPLOY LOCALLY.
 
